@@ -17,5 +17,10 @@
     "**/build": true,
     "**/node_modules": true,
     "**/dist": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#442238",
+    "titleBar.activeBackground": "#5F304E",
+    "titleBar.activeForeground": "#FCF9FB"
   }
 }

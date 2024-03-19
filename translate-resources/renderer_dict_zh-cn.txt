@@ -327,7 +327,7 @@ label:"Show in folder",id:"showInFolder"|label:"定位到文件夹中",id:"showI
 {type:"del",tooltip:"Strikethrough",shortcut:|{type:"del",tooltip:"删除线",shortcut:
 {type:"mark",tooltip:"Highlight",shortcut:|{type:"mark",tooltip:"高亮",shortcut:
 {type:"inline_code",tooltip:"Inline Code",shortcut:|{type:"inline_code",tooltip:"内联代码",shortcut:
-{type:"inline_math",tooltip:"Inline Math",shortcut:|{type:"inline_math",tooltip:"内敛Math",shortcut:
+{type:"inline_math",tooltip:"Inline Math",shortcut:|{type:"inline_math",tooltip:"内联Math",shortcut:
 {type:"link",tooltip:"Link",shortcut:|{type:"link",tooltip:"链接",shortcut:
 {type:"image",tooltip:"Image",shortcut:|{type:"image",tooltip:"图片",shortcut:
 {type:"clear",tooltip:"Clear Formatting",shortcut:|{type:"clear",tooltip:"清除格式",shortcut:
